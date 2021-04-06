@@ -1,0 +1,24 @@
+body {background-color: wheat;}
+
+.image{position: relative;left: 100px;
+    
+}
+h2{position: relative;left: 30px}
+li{position: relative;left: 20px;}
+
+h1{position:relative;left:10px}
+.container{
+    width: 28%;
+}
+.image4{position: relative;center;}
+.image4{width: 40px;}
+.image5{position: relative;center;}
+.image5{width: 40px;}
+.image8{position:relative;center;}
+.image8{width: 40px;}
+.nour{position:absolute;jstify-content:flex-end;}
+
+    .
+
+
+    
